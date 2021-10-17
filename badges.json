@@ -1,12 +1,11 @@
 {
-	"dev": {
-		"OvGames_C": {
-			"user_login": "OvGames",
-			"user_id": 306144,
-			"user_profile": {
-				"channel_id": 169378,
-				"user_login": "OvGames_C"
-			}
+	"OvGames_C": {
+		"user_login": "OvGames",
+		"user_id": 306144,
+		"user_role": "DEV",
+		"user_profile": {
+			"channel_id": 169378,
+			"user_login": "OvGames_C"
 		}
 	}
 }
