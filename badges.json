@@ -8,12 +8,10 @@
 			"user_login": "OvGames"
 		},
 		"badges": [
-			
 			{
 				"html": "<div ovg='' class='info__text__status-dev' style='background-color: {user_color};'><i badge='' class='icon wasd-icons-dev dev'></i></div>",
 				"title": "BetterWASD Разработчик"
 			}
-
-		],
+		]
 	}
 }
