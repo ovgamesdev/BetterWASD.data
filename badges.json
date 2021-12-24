@@ -6,6 +6,7 @@
 		"user_profile": {
 			"channel_id": 169378,
 			"user_login": "OvGames"
-		}
+		},
+		"badge_html": "<div ovg='' class='info__text__status-dev' style='background-color: {user_color};'><i badge='' class='icon wasd-icons-dev dev'></i></div>"
 	}
 }
