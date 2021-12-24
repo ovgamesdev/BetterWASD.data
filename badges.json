@@ -9,8 +9,9 @@
 		},
 		"badges": [
 			{
+				"title": "BetterWASD Разработчик",
 				"html": "<div ovg='' class='info__text__status-dev' style='background-color: {user_color};'><i badge='' class='icon wasd-icons-dev dev'></i></div>",
-				"title": "BetterWASD Разработчик"
+				"tooltip": "<div ovg='' class='info__text__status-dev' style='background-color: {user_color};height: 20px;width: 23px;'><i badge='' class='icon wasd-icons-dev dev' style='position: relative;top: 2px;'></i></div>"
 			}
 		]
 	}
