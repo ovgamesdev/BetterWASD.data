@@ -1,24 +1,4 @@
 {
-	"1.4.0": {
-		"info" : [
-			{
-				"text": "Обновление доступно в интернет-магазине chrome",
-				"id": "1",
-				"date": "2021-11-16"
-			}
-		]
-	},
-
-	"1.4.1": {
-		"info" : [
-			{
-				"text": "Обновление доступно в интернет-магазине chrome",
-				"id": "1",
-				"date": "2021-12-01"
-			}
-		]
-	},
-
 	"1.4.2": {
 		"info" : [
 			{
@@ -61,6 +41,10 @@
 				"link": "https://docs.google.com/forms/d/e/1FAIpQLSfeR-ASq3bQBE6t3F5lIutvfcJkh8bUxAWqls80Q1WMNAEivQ/viewform?usp=sf_link",
 				"linkText": "Отправить эмоцию",
 				"date": "2022-01-21"
+			}, {
+				"text": "Обновление отправлено на проверку",
+				"id": "2",
+				"date": "2022-01-22"
 			}
 		]
 	},
