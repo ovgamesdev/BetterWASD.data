@@ -1,51 +1,7 @@
 {
-	"1.4.3": {
+	"1.4.7": {
 		"info" : [
 			{
-				"text": "Чат для OBS перемещен <a target='_blank' href='https://ovgamesdev.github.io/BetterWASD.obs_chat/settings/'>сюда.</a> </br> Как его настроить узнайте <a target='_blank' href='https://www.youtube.com/watch?v=bPisvPlLvZY'>здесь</a>",
-				"id": "1",
-				"date": "2021-12-24"
-			}, {
-				"text": "Обновление доступно в интернет-магазине chrome",
-				"id": "2",
-				"date": "2022-01-14"
-			}
-		]
-	},
-
-	"1.4.4": {
-		"info" : [
-			{
-				"text": "Обновление доступно в интернет-магазине chrome",
-				"id": "2",
-				"date": "2022-01-14"
-			}
-		]
-	},
-
-	"1.4.5.1": {
-		"info" : [
-			{
-				"text": "Общедоступная эмоция BetterWASD </br> Эмоция будет доступна всем пользователям расширения после одобрения",
-				"id": "1",
-				"link": "https://docs.google.com/forms/d/e/1FAIpQLSfeR-ASq3bQBE6t3F5lIutvfcJkh8bUxAWqls80Q1WMNAEivQ/viewform?usp=sf_link",
-				"linkText": "Отправить эмоцию",
-				"date": "2022-01-21"
-			}, {
-				"text": "Обновление отправлено на проверку",
-				"id": "2",
-				"date": "2022-01-22"
-			}
-		]
-	},
-
-	"1.4.6": {
-		"info" : [
-			{
-				"text": "Обновление отправлено на проверку?",
-				"id": "3",
-				"date": "2022-02-14"
-			}, {
 				"text": "Как добавить эмоцию BetterWASD на свой канал?",
 				"id": "2",
 				"link": "https://ovgamesdev.github.io/#/help",
@@ -61,9 +17,13 @@
 		]
 	},
 
-	"1.4.7": {
+	"1.4.8": {
 		"info" : [
 			{
+				"text": "Обновление отправлено на проверку",
+				"id": "3",
+				"date": "2022-02-23"
+			}, {
 				"text": "Как добавить эмоцию BetterWASD на свой канал?",
 				"id": "2",
 				"link": "https://ovgamesdev.github.io/#/help",
