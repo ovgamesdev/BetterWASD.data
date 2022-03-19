@@ -2,7 +2,7 @@
 	"1.4.7": {
 		"info" : [
 			{
-				"text": "Обновление отправлено на проверку",
+				"text": "Обновление доступно в интернет-магазине chrome",
 				"id": "3",
 				"date": "2022-02-23"
 			}, {
@@ -22,6 +22,50 @@
 	},
 
 	"1.4.8": {
+		"info" : [
+			{
+				"text": "Обновление доступно в интернет-магазине chrome",
+				"id": "3",
+				"date": "2022-02-23"
+			}, {
+				"text": "Как добавить эмоцию BetterWASD на свой канал?",
+				"id": "2",
+				"link": "https://ovgamesdev.github.io/#/help",
+				"linkText": "Подробнее",
+				"date": "2022-02-04"
+			}, {
+				"text": "Общедоступная эмоция BetterWASD </br> Эмоция будет доступна всем пользователям расширения после одобрения",
+				"id": "1",
+				"link": "https://docs.google.com/forms/d/e/1FAIpQLSfeR-ASq3bQBE6t3F5lIutvfcJkh8bUxAWqls80Q1WMNAEivQ/viewform?usp=sf_link",
+				"linkText": "Отправить эмоцию",
+				"date": "2022-01-21"
+			}
+		]
+	},
+
+	"1.5.0": {
+		"info" : [
+			{
+				"text": "Обновление доступно в интернет-магазине chrome",
+				"id": "3",
+				"date": "2022-03-19"
+			}, {
+				"text": "Как добавить эмоцию BetterWASD на свой канал?",
+				"id": "2",
+				"link": "https://ovgamesdev.github.io/#/help",
+				"linkText": "Подробнее",
+				"date": "2022-02-04"
+			}, {
+				"text": "Общедоступная эмоция BetterWASD </br> Эмоция будет доступна всем пользователям расширения после одобрения",
+				"id": "1",
+				"link": "https://docs.google.com/forms/d/e/1FAIpQLSfeR-ASq3bQBE6t3F5lIutvfcJkh8bUxAWqls80Q1WMNAEivQ/viewform?usp=sf_link",
+				"linkText": "Отправить эмоцию",
+				"date": "2022-01-21"
+			}
+		]
+	},
+
+	"1.5.1": {
 		"info" : [
 			{
 				"text": "Как добавить эмоцию BetterWASD на свой канал?",
